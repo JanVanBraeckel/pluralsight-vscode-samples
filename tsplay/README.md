@@ -4,7 +4,7 @@ As seen at [//Build 2015](http://channel9.msdn.com/Events/Build/2015/3-680) pres
 
 ## Prerequisites
 
-1. Install [Node.js](http://nodejs.org) 
+1. Install [Node.js](http://nodejs.org)
  - on OSX use [homebrew](http://brew.sh) `brew install node`
  - on Windows use [chocolatey](https://chocolatey.org/) `choco install nodejs`
 
